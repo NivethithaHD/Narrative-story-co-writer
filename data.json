@@ -1,0 +1,67 @@
+{
+    "users": {
+        "good": {
+            "password": "123",
+            "stories": {
+                "2bb08612-f5da-44f9-b020-a74ef31ff5a1": {
+                    "title": "tnfd",
+                    "manuscript": "\n\nSir, I have a suggestion for you. Here's an action story you can tell to your four-year-old self:\n\nOne day, while going on a walk in the park, you saw an interesting looking robot with four legs and two arms. It was moving gracefully through the flowers and trees, collecting fruit for its food.\n\nAs you got closer, it stopped and looked at you curiously. You explained to it that humans need help with their chores and tasks. The robot smiled at you and said, \"Sure! What chores do we need help with?\"\n\nYou replied that they needed help with their cleaning duties, cooking food, and doing laundry. To your amazement, the robot showed you how to make sandwiches, how to cook rice dish, and even cleaned your bathroom. You were amazed at its flexibility and creativity.\n\nThe robot then asked you, \"What else can we do together?\" And you replied that it could help with gardening, mowing lawns, and even planting trees. The robot showed you how to build a wooden bench or garden shed while listening to your every wish.\n\nYou were overjoyed when you realized that the robot could do anything and everything that humans can. It was an enchanting experience, and you would never forget it. You'll always be grateful for this friendly and helpful machine.",
+                    "chat_history": [],
+                    "updated": "2026-02-24 20:46"
+                },
+                "115b0ca2-5a5d-404a-b7e1-f70f3a9a63bc": {
+                    "title": "Untitled Tale",
+                    "manuscript": "",
+                    "chat_history": [],
+                    "updated": "2026-03-03 19:19"
+                },
+                "edad24c1-edf5-4333-8fe9-a75225c67869": {
+                    "title": "Untitled Tale",
+                    "manuscript": "",
+                    "chat_history": [],
+                    "updated": "2026-03-27 18:51"
+                }
+            }
+        },
+        "roy": {
+            "password": "1234",
+            "stories": {
+                "84742710-b12f-4be8-a55d-232e3614ed09": {
+                    "title": "Untitled Tale",
+                    "manuscript": "\n\nSure! Here are some fruits you might be interested in learning about:\n\n1. Apples (fruit)\n2. Bananas (fruit)\n3. Oranges (fruit)\n4. Plums (fruit)\n5. Pears (fruit)\n6. Strawberries (fruit)\n7. Berries (plural)\n8. Kiwi (fruit)\n9. Mangoes (fruit)\n10. Figs (fruit)\n11. Melons (fruit)\n12. Watermelons (fruit)\n13. Pineapples (fruit)\n14. Grapes (fruit)\n15. Grapes (plural)\n\nHappy learning!",
+                    "chat_history": [],
+                    "updated": "2026-02-25 19:19"
+                },
+                "d2d8efa8-ed82-4b28-9c5b-4e5b8e4d71c5": {
+                    "title": "Untitled Tale",
+                    "manuscript": "",
+                    "chat_history": [],
+                    "updated": "2026-03-03 18:30"
+                }
+            }
+        },
+        "aron": {
+            "password": "1234",
+            "stories": {
+                "7cf1fd0d-72f2-4b0b-9984-131b4483a4a2": {
+                    "title": "Untitled Tale",
+                    "manuscript": "\n\nOnce upon a time, in a vast and magical land called Arvandor, there lived a group of creatures who were skilled at creating stunning tales for their audiences. These beings were known as Tellerians, and they had developed an uncanny ability to weave stories that not only entertained but also inspired their listeners.\n\nOne day, a young tale-teller named Aria was walking through the forest when she heard a rustling sound coming from behind a tree. She turned to see a group of creatures hiding in the branches, watching her with curiosity. Without warning, one of them attacked Aria and tried to rob her of her power.\n\nIn that moment, Aria realized that her gift was more than just entertainment - it could also be used for good. She sprang into action, using her storytelling skills to defend the Tellerians from the attacking creatures. She managed to defeat them and escaped unharmed, but not before she had seen a glimpse of what the world could be when people worked together in unity.\n\nWith this experience under her belt, Aria returned home and shared her story with the other Tellerians. From that day onward, they became known for their courageous stances in defense of peace and harmony. They learned to work together, respecting each other's unique talents and working towards a common goal - making Arvandor a place where all creatures could live in harmony.\n\nOver time, this newfound sense of unity and cooperation helped Arvandor thrive. The land became richer with vibrant flora and fauna, and the people prospered, bringing forth art, music, and literature that brought joy to the world. Aria's storytelling had become a powerful force for good, helping to create something beautiful in a land that had been beforehand a place of darkness and sorrow.",
+                    "chat_history": [],
+                    "updated": "2026-02-25 19:33"
+                },
+                "13158a8c-e5b2-4e36-b88b-5106d5894311": {
+                    "title": "good",
+                    "manuscript": "",
+                    "chat_history": [],
+                    "updated": "2026-02-25 19:35"
+                },
+                "45c711b3-3459-4349-aac9-e1b4d787d7f9": {
+                    "title": "good",
+                    "manuscript": "",
+                    "chat_history": [],
+                    "updated": "2026-02-25 19:35"
+                }
+            }
+        }
+    }
+}
