@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 
-📖 NarrativeFlow: Interactive Story Co-Writer
 
 NarrativeFlow is an AI-powered storytelling application that helps users create, edit, and enhance stories interactively. It combines a clean writing interface with a smart AI co-writer powered by Ollama  to assist in generating ideas, dialogues, and story continuations.
 
