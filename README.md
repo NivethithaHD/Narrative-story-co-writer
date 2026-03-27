@@ -40,3 +40,19 @@ AI Model: Ollama
 Language: Python
 
 Storage: JSON file (data.json)
+
+## 🔮 Future Enhancements
+
+- Multi-user collaboration  
+- Story branching (multiple endings)  
+- Export to PDF/Word  
+- Advanced narrative analytics  
+- Custom model fine-tuning  
+- Voice narration support  
+- Web-based collaboration  
+
+---
+
+## 📄 License
+
+This project is open source and available under the MIT License.
